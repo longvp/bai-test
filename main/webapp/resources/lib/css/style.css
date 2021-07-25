@@ -1,0 +1,23 @@
+.frame{
+    margin: 50px auto;
+    border: 1px solid gray;
+    height: 400px;
+    width: 600px;
+    background-color: white;
+}
+.frame-forgot{
+    height: 300px;
+    width: 600px;
+}
+.link a{
+    margin: 0 100px;
+    text-decoration: none;
+}
+.link a:hover{
+    color: red;
+}
+.frame input{
+    margin-left: 50px;
+    margin-top: 10px;
+    width: 80%;
+}
